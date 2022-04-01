@@ -5,11 +5,11 @@
 
 👋 Hello, I'm Bulgan Erdenebaatar, a software engineer based in Seattle, WA. 
 
-## How To Reach Me --->
+## How To Reach Me 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bulgan-erdenebaatar/) [![Instagram](https://img.shields.io/badge/beebulgaa-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bee2401/)
 
 ---
-## TECHNICAL SKILLS --->
+## TECHNICAL SKILLS 
 - Front End: JavaScript (ES5 and ES6) | React | React-Router-dom | HTML5 | CSS3 | JQuery | React-Bootstrap | Bootstrap
 - Back End: Node.js | Express | Axios | MongoDB | PostgreSQL MySQL | RESTful API Development
 - Testing/Deployment: Jest | Supertest | Mocha | Chai | AWS: EC2 | Loader.io | K6 | NGINX
