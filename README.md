@@ -3,10 +3,10 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-👋 Hello, I'm Bulgan Erdenebaatar, a software engineer based in Seattle, WA. 
+👋 Hello, I'm Bulgan Erdenebaatar, a software engineer based in Seattle, WA. I am ecstatic about bringing my knowledge and skills 
 
 ## How To Reach Me 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bulgan-erdenebaatar/) [![Instagram](https://img.shields.io/badge/beebulgaa-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bee2401/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bulgan-erdenebaatar/) [![Instagram](https://img.shields.io/badge/beebulgaa-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/beebulgaa/)
 
 ---
 ## TECHNICAL SKILLS 
