@@ -3,7 +3,7 @@
 👋 Hello, I'm Bulgan Erdenebaatar, a software engineer based in Seattle, WA. 
 
 ## How To Reach Me ->
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bulgan-erdenebaatar/) [![Instagram](https://img.shields.io/badge/Captain_Daurham-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bee2401/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bulgan-erdenebaatar/) [![Instagram](https://img.shields.io/badge/beebulgaa-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bee2401/)
 
 ---
 ## TECHNICAL SKILLS ->
@@ -24,4 +24,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> -->
+-->
