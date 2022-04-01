@@ -7,7 +7,7 @@
 
 ## How To Reach Me 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bulgan-erdenebaatar/) [![Instagram](https://img.shields.io/badge/beebulgaa-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/beebulgaa/)
-![bulganebaatar@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+ ![Gmail](https://img.shields.io/badge/bulganebaatar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
 ## TECHNICAL SKILLS 
