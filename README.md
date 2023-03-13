@@ -11,8 +11,8 @@
 
 ---
 ## TECHNICAL SKILLS 
-- Front End: JavaScript (ES5 and ES6) | React | React-Router-dom | HTML5 | CSS3 | JQuery | React-Bootstrap | Bootstrap
-- Back End: Node.js | Express | Axios | MongoDB | PostgreSQL MySQL | RESTful API Development
+- Front End: JavaScript (ES5 and ES6) | React | React-Router-dom | HTML5 | CSS3 | JQuery | React-Bootstrap | Bootstrap | Material UI | TypeScript
+- Back End: Node.js | Express | Axios | MongoDB | PostgreSQL MySQL | RESTful API Development | Next.js
 - Testing/Deployment: Jest | Supertest | Mocha | Chai | AWS: EC2 | Loader.io | K6 | NGINX
 - Developer Tools: Vim | Git | Npm | Webpack | Babel | Nodemon | Postman
 
